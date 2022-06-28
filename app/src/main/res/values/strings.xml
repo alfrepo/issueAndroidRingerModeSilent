@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RingerModeSilentTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="RINGER_MODE_NORMAL">RINGER_MODE_NORMAL</string>
+    <string name="RINGER_MODE_SILENT">RINGER_MODE_SILENT</string>
+
+    <string name="hello_first_fragment">Push RINGER_MODE_NORMAL to reset. Push RINGER_MODE_SILENT to see the the issue.</string>
+</resources>
